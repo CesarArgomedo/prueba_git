@@ -1,1 +1,1 @@
-
+var mensaje = "hola mundo";
